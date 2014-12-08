@@ -1,0 +1,38 @@
+/* 
+*    Created on : Nov 10, 2014, 1:10:36 PM
+*    Author     : Yeasin
+*
+*   Index
+*       
+*/
+
+/*
+*
+*   Custom helper classes
+*/
+.margin-top-10{
+    margin-top: 10px !important;
+}
+.margin-bottom-10{
+    margin-bottom: 10px !important;
+}
+.ng-ng-invalid{
+    border: solid 1px #FF0000 !important;
+}
+
+
+
+
+/*
+*
+*    New Style
+*/
+.product-list-item {
+    border: solid 1px #E8E8E8;
+    box-shadow: 0 0 6px #E5E2E2;    
+    height: 300px;
+}
+
+.product-list-item img{
+    max-height: 160px;
+}
